@@ -1,11 +1,7 @@
 
 /**
- * This program demonstrates the use of the Integer class constants
- * MIN_VALUE and MAX_VALUE when finding the minimum and maximum
- * value within a numeric array.
- *
- * @author David J. Farber
- * @version 06/06/17
+ * Ryan Wagner
+ * Finding Minimum and Maximum values in an array
  */
 
 public class FindMinMax
